@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "leite": "^0.2.0",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "url-parse": "^1.4.7"
   },
   "devDependencies": {
